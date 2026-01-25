@@ -55,18 +55,17 @@ The objective of this project is to demonstrate **data analysis, visualization, 
 
 ---
 
-## Dashboard Preview
-
-> Open the `.pbix` file in Power BI Desktop to explore interactive visuals.
-
----
-
 ## Project Structure
 
 ```
+
 ├── Netflix Analysis Dashboard.pbix   # Power BI dashboard file
 ├── README.md                         # Project documentation
+
 ```
+
+## Dashboard Preview
+![image alt](https://github.com/preetsolanki04/Netflix-Analysis-Dashboard/blob/main/Screenshot%202026-01-25%20224440.png?raw=true)
 
 ---
 
